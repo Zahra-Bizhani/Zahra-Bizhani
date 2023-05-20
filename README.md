@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-PHP-Laravel Back-end developer
+Back-end developer|PHP-Laravel
 
 
 ## 🌐 Socials:
